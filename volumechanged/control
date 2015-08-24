@@ -1,0 +1,9 @@
+Package: pandazheng
+Name: volumeChanged
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: pandazheng
+Author: pandazheng
+Section: Tweaks
