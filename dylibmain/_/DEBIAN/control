@@ -1,10 +1,10 @@
-Package: pandazheng
-Name: volumeChanged
+Package: com.pandazheng.dylibmain
+Name: dylibmain
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: pandazheng
 Author: pandazheng
 Section: Tweaks
-Version: 0.0.1-2
+Version: 0.0.1-4
 Installed-Size: 16

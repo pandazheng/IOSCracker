@@ -1,5 +1,5 @@
-Package: pandazheng
-Name: volumeChanged
+Package: com.pandazheng.fuckcamera
+Name: fuckcamera
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
