@@ -1,10 +1,9 @@
-Package: com.pandazheng.fuckcamera
-Name: fuckcamera
+Package: com.pandazheng.iossecurity
+Name: iossecurity
 Depends: mobilesubstrate
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: pandazheng
 Author: pandazheng
 Section: Tweaks
-Version: 0.0.1-4
-Installed-Size: 16
